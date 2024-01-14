@@ -1,1 +1,1 @@
-# paint-clone
+# Paint Clone
